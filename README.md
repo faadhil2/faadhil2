@@ -5,14 +5,14 @@
 - 💡 I’m currently trying to learn as much as I can, heck I've got educational experience in 3 different fields.🤣
 - 🧪 I like understanding the science of things.
 - 💪 I train my mind and my body.
-- 🍪 Chocolate chip cookies are my kryptonite. 😂 
+- 🍪 Chocolate chip cookies are my kryptonite. 😂
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a fitness enthusiast, a gamer, and I can fly small planes!
 
 
 ### Connect with me:
 
-[<img align="left" alt="faadhil2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/faadhil-ahamat-03874614b/)
+[<img align="left" alt="faadhil2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/faadhil-ahamat)
 
 
 <br />
