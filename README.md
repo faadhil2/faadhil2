@@ -34,4 +34,4 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faadhil2&show_icons=true&theme=radical&hide_border=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faadhil2&show_icons=true&theme=vue&hide_border=true)]
