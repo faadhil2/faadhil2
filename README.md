@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="faadhil2 | LinkedIn" width="22px" src="https://www.linkedin.com/in/faadhil-ahamat-03874614b/" />
+[<img align="left" alt="faadhil2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/faadhil-ahamat-03874614b/)
 
 
 <br />
