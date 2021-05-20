@@ -2,7 +2,7 @@
 ## I'm an Aspiring Developer!!
 
 - 📜 I'm a recent computer science grad looking to begin my career in a reputable company.
-- 💡 I’m currently trying to learn as much as I can. 🤣
+- 💡 I’m currently trying to learn as much as I can.🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a fitness enthusiast, a gamer, and I can fly small planes!
 
