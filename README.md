@@ -4,7 +4,7 @@
 - 📜 I'm a recent computer science grad looking to begin my career in a reputable company.
 - 💡 I’m currently trying to learn as much as I can, heck I've got educational experience in 3 different fields.🤣
 - 🧪 I like understanding the science of things.
-- 💪 I train my mind and my body.
+- 💪 I enjoy training my mind and my body.
 - 🍪 Chocolate chip cookies are my kryptonite. 😂
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a fitness enthusiast, a gamer, and I can fly small planes!
@@ -36,5 +36,9 @@
 <br />
 
 ---
+### Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faadhil2)](https://github.com/faadhil2/github-readme-stats)
 
+
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faadhil2&show_icons=true&hide=stars&theme=vue&hide_border=true&count_private=true)]
