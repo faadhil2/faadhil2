@@ -40,6 +40,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faadhil2)](https://github.com/faadhil2/github-readme-stats)
 
 
-<br />
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faadhil2&show_icons=true&hide=stars&theme=vue&hide_border=true&count_private=true)]
