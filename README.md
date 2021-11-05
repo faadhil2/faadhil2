@@ -1,5 +1,5 @@
 ### Greetings, I'm Faadhil 👋
-## I'm an Aspiring Developer!!
+## I'm a Full Stack Developer
 
 - 📜 I'm a recent computer science grad looking to begin my career in a reputable company.
 - 💡 I’m currently trying to learn as much as I can, heck I've got educational experience in 3 different fields.🤣
