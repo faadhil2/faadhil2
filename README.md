@@ -2,13 +2,17 @@
 ## I'm a Full Stack Developer
 
 - 📜 I'm a recent computer science grad looking to begin my career in a reputable company.
-- 💡 I’m currently trying to learn as much as I can. 🤣
+- 💡 I’m currently trying to learn as much as I can from online course and network through conferences and hackathons. 🤣
 - 🧪 I like understanding the science of things.
 - 💪 I enjoy training my mind and my body.
 - 🍪 Chocolate chip cookies are my kryptonite. 😂
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a fitness enthusiast, a gamer, and I can fly small planes!
 
+### Events Attended:
+- HackRU 2020 - Hackathon, Rutgers University, NJ, USA
+- Back to Hacking 2021 - Online Hackathon
+- MetroHacks 2021 - Online Hackathon
 
 ### Connect with me:
 
