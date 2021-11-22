@@ -2,7 +2,7 @@
 ## I'm a Full Stack Developer
 
 - 📜 I'm a recent computer science grad looking to begin my career in a reputable company.
-- 💡 I’m currently trying to learn as much as I can, heck I've got educational experience in 3 different fields.🤣
+- 💡 I’m currently trying to learn as much as I can. 🤣
 - 🧪 I like understanding the science of things.
 - 💪 I enjoy training my mind and my body.
 - 🍪 Chocolate chip cookies are my kryptonite. 😂
