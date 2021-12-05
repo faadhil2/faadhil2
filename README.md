@@ -1,8 +1,8 @@
 ### Greetings, I'm Faadhil 👋
 ## I'm a Full Stack Developer
 
-- 📜 I'm a recent computer science grad looking to begin my career in a reputable company.
-- 💡 I’m currently trying to learn as much as I can from online course and network through conferences and hackathons. 🤣
+<!-- - 📜 I'm a recent computer science grad looking to begin my career in a reputable company. -->
+- 💡 I’m currently trying to learn as much as I can and network through conferences and hackathons. 🤣
 - 🧪 I like understanding the science of things.
 - 💪 I enjoy training my mind and my body.
 - 🍪 Chocolate chip cookies are my kryptonite. 😂
