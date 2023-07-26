@@ -6,7 +6,6 @@
 - 🧪 I like understanding the science of things.
 - 💪 I enjoy training my mind and my body.
 - 🍪 Chocolate chip cookies are my kryptonite. 😂
-- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm a fitness enthusiast, a gamer, and I can fly small planes!
 
 ### Events Attended:
